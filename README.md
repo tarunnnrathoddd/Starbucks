@@ -14,7 +14,7 @@ Exploring the Starbucks website provides beginners with a hands-on way to grasp 
 -  Clone the project repository to your local machine:
 
    ```bash
-   git cl
+   git clone [put your repository-url]
 - Link the html file of your component to the link on the card created at [index.html](https://github.com/PCCoE-Hacktoberfest-21/animated-components/blob/main/index.html) file.
 - Create a new card for every new component that you make.
 
