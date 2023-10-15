@@ -11,6 +11,10 @@ Exploring the Starbucks website provides beginners with a hands-on way to grasp 
 
 - Create a new folder with the name of your component <br> eg. If you are creating a Navbar Component then name your folder `Navbar`
 - Add the html, css, js files in that folder (Don't add your component code to the index.html) <br> eg. If you are creating a Navbar then name your files `Navbar.html, Navbar.js, Navbar.css`
+-  Clone the project repository to your local machine:
+
+   ```bash
+   git cl
 - Link the html file of your component to the link on the card created at [index.html](https://github.com/PCCoE-Hacktoberfest-21/animated-components/blob/main/index.html) file.
 - Create a new card for every new component that you make.
 
