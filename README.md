@@ -17,12 +17,10 @@ Exploring the Starbucks website provides beginners with a hands-on way to grasp 
 - Please take a look at the [sample component](https://github.com/PCCoE-Hacktoberfest-21/animated-components/tree/main/Sample) to understand the folder structure better.
   > NOTE: Please do NOT create a pull request unless the issue has been assigned to you else the pull request will be marked `invalid`
 
-## Issues and Solutions
-
-### Responsiveness Issue
+### Responsiveness Issue and its Solutions
 
 #### Problem:
-The game's layout is not responsive, causing it to display improperly on various screen sizes.
+The Starbucks website's layout is not responsive, causing it to display improperly on various screen sizes.
 
 #### Solution:
 To fix the responsiveness issue, follow these steps:
