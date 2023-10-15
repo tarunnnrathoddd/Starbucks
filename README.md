@@ -14,6 +14,12 @@ Exploring the Starbucks website provides beginners with a hands-on way to grasp 
 3. [Fork the Project](#fork-the-project)
 
 
+## What is HacktoberFest?
+
+A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+
+https://hacktoberfest.digitalocean.com/
+
 ## Project Description   
 A Starbucks landing page, crafted with HTML, CSS, and a touch of JavaScript, offers a visually captivating experience. Users can explore the menu, view nutritional info, and locate nearby stores. The responsive design ensures a seamless experience on all devices, embodying the essence of Starbucks' quality and creativity.
 ## Responsiveness Issue and its Solutions
