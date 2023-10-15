@@ -19,7 +19,8 @@ A Starbucks landing page, crafted with HTML, CSS, and a touch of JavaScript, off
 ## Responsiveness Issue and its Solutions
 
 ## Problem:
-The Starbucks website's layout is not responsive, causing it to display improperly on various screen sizes.
+
+The Starbucks website's non-responsive layout poses various issues. It displays poorly on different screen sizes, with problems such as an unresponsive phone layout, a non-adaptive navbar, font inconsistencies, and misaligned coffee cup images. These issues need to be addressed for a smoother user experience.
 
 ## Solution:
 To fix the responsiveness issue, follow these steps:
