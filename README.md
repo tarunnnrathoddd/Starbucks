@@ -10,7 +10,7 @@ Exploring the Starbucks website provides beginners with a hands-on way to grasp 
 ## Table of Contents 📚
 
 1. [Project Description](#project-description)
-2. [Responsiveness Issues with its Solutions](#Responsiveness Issues with its Solutions)
+2. [Responsiveness Issues with its Solutions](#Responsiveness-Issues-with-its-Solutions)
 3. [Fork the Project](#fork-the-project)
 
 
