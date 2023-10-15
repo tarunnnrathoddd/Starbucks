@@ -10,7 +10,7 @@ Exploring the Starbucks website provides beginners with a hands-on way to grasp 
 ## Table of Contents 📚
 
 1. [Project Description](#project-description)
-2. [Style and Responsiveness](#styling-and-responsiveness)
+2. [Responsiveness Issues with its Solutions](#Responsiveness Issues with its Solutions)
 3. [Fork the Project](#fork-the-project)
 
 
@@ -22,6 +22,8 @@ https://hacktoberfest.digitalocean.com/
 
 ## Project Description   
 A Starbucks landing page, crafted with HTML, CSS, and a touch of JavaScript, offers a visually captivating experience. Users can explore the menu, view nutritional info, and locate nearby stores. The responsive design ensures a seamless experience on all devices, embodying the essence of Starbucks' quality and creativity.
+
+
 ## Responsiveness Issue and its Solutions
 
 ## Problem:
@@ -43,7 +45,7 @@ To ensure the Starbucks website elements fit nicely on small screens without ove
 5. **Test on Multiple Devices**:
 After implementing the changes, it's essential to conduct thorough testing of the Starbucks website on various devices and screen sizes to ensure it maintains a visually pleasing appearance across all platforms.
 
-## Contributing
+## Contributing (Fork the Project)
 If you'd like to contribute to this project, you can follow these steps:
 
 1. Fork the repository to your GitHub account.
